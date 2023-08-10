@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "next-ui": ["packages/next-ui/src/index.ts"],
+      "next-ui/server": ["packages/next-ui/src/server.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
