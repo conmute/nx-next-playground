@@ -13,6 +13,10 @@ from ALL the libraries and possible even from apps as well ;)
 
 ```bash
 nx g @nx/react:library storybook-host
+npm add --save-dev @nx/storybook
+nx g @nx/storybook:configuration storybook-host
+
+nx storybook storybook-host
 ```
 
 ## 2023-08-10 23:57:00 (Thu)

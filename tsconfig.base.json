@@ -16,7 +16,8 @@
     "baseUrl": ".",
     "paths": {
       "next-lib": ["packages/next-lib/src/index.ts"],
-      "next-ui/server": ["packages/next-ui/src/server.ts"]
+      "next-ui/server": ["packages/next-ui/src/server.ts"],
+      "storybook-host": ["packages/storybook-host/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
