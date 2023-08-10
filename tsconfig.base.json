@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "next-ui": ["packages/next-ui/src/index.ts"],
+      "next-lib": ["packages/next-lib/src/index.ts"],
       "next-ui/server": ["packages/next-ui/src/server.ts"]
     }
   },
