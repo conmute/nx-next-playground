@@ -19,6 +19,10 @@ nx g @nx/storybook:configuration storybook-host
 nx storybook storybook-host
 ```
 
+which concludes the starting point to have a multi-framework
+and with various html/react/markdown and whatever implementation
+it could be properly consumed to multiple apps/projects
+
 ## 2023-08-10 23:57:00 (Thu)
 
 Updating `nx.json` in project root,
