@@ -6,6 +6,15 @@ Trying to setup thing like described here:
 
 <https://nx.dev/recipes/storybook/one-storybook-for-all>
 
+## 2023-08-11 01:20:35 (Fri)
+
+Now its time to make some setup which will use stories
+from ALL the libraries and possible even from apps as well ;)
+
+```bash
+nx g @nx/react:library storybook-host
+```
+
 ## 2023-08-10 23:57:00 (Thu)
 
 Updating `nx.json` in project root,
